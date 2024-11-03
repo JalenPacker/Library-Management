@@ -1,0 +1,15 @@
+The Great Gatsby|F. Scott Fitzgerald|Fiction|978-0743273565|false|
+To Kill a Mockingbird|Harper Lee|Fiction|978-0446310789|true|2024-11-20
+1984|George Orwell|Science Fiction|978-0451524935|false|
+The Clean Coder|Robert C. Martin|Programming|978-0137081073|false|
+Introduction to Algorithms|Thomas H. Cormen|Programming|978-0262033848|true|2024-11-17
+The Hobbit|J.R.R. Tolkien|Fantasy|978-0547928227|false|
+Harry Potter and the Sorcerer's Stone|J.K. Rowling|Fantasy|978-0590353427|true|2024-11-15
+The Art of War|Sun Tzu|Philosophy|978-0140455526|false|
+Data Structures in Java|Robert Lafore|Programming|978-0672324536|false|
+Pride and Prejudice|Jane Austen|Fiction|978-0141439518|false|
+The Theory of Everything|Stephen Hawking|Science|978-0521880299|true|2024-11-25
+Java: The Complete Reference|Herbert Schildt|Programming|978-0071808552|false|
+Lord of the Rings|J.R.R. Tolkien|Fantasy|978-0618640157|false|
+The Catcher in the Rye|J.D. Salinger|Fiction|978-0316769488|false|
+A Brief History of Time|Stephen Hawking|Science|978-0553380163|false|
